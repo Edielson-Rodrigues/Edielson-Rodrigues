@@ -1,23 +1,9 @@
 <h1>Olá👋, me chamo Edielson Rodrigues.</h1>
 
-<!--
-**Edielson-Rodrigues/Edielson-Rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
-
-
-
-[
+- 🧮 Atualmente estou estudando Java com Spring Boot
+- 📚 Cursando Ciências da Computação, Universidade Federal do Agreste de Pernambuco
+- 👨‍🎓 Técnico em Informática, Instituto Federal de Pernambuco
+- 📩 Contate-me no e-mail: edielsonwork23@gmail.com
