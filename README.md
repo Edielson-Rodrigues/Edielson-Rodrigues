@@ -1,7 +1,7 @@
 <h1>Olá👋, me chamo Edielson Rodrigues.</h1>
 
 
-- 📚 Cursando Ciências da Computação, Universidade Federal do Agreste de Pernambuco
+- 📚 Cursando Ciência da Computação, Universidade Federal do Agreste de Pernambuco
 - 👨‍🎓 Técnico em Informática, Instituto Federal de Pernambuco  
 
 <div style="display: inline_block"><br>
